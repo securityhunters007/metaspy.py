@@ -1,0 +1,7 @@
+python-docx
+pypdf
+Pillow
+PyExifTool
+pptx
+openpyxl
+customtkinter
