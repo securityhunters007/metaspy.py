@@ -15,7 +15,7 @@ MetaSpy is a powerful command-line tool built with Python to analyze and manage 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/securityhunters007/metaspy.py.git](https://github.com/securityhunters007/metaspy.py.git)
+    git clone https://github.com/securityhunters007/metaspy.py
     cd metaspy.py
     ```
 2.  **Create and activate a virtual environment:**
